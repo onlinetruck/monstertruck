@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "onlinetruck/monstertruck",
+    "description": "monster truck games Framework.",
+    "keywords": ["framework", "monster truck game"],
     "license": "MIT",
     "type": "project",
     "require": {
